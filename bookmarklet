@@ -1,0 +1,7 @@
+javascript:(function() {
+    document.open();
+    document.write('<html><head><title>Iframe Loader</title></head><body>');
+    document.write('<iframe src="https://node-rm2q-ifuuckinghateyouus-projects.vercel.app/" width="100%" height="100%" style="border:none;"></iframe>');
+    document.write('</body></html>');
+    document.close();
+})();
